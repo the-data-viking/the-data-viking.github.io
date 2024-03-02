@@ -12,3 +12,10 @@ In 1996, Ralph Kimball published The Datawarehousing Toolkit, establishing the s
 
 In 2010, two other people modernized Kimball's practices in the Agile Data Warehouse Design book.
 
+Now, in 2024, it's time to reexamine data warehousing.
+
+
+### A Modern Examination of Data Warehousing
+
+Both works emphasize runtime considerations and minimizing the work
+
