@@ -1,5 +1,5 @@
 ---
-title: Does a draft folder prevent auto posts?
+title: Moving from drafts to _posts
 author: cotes
 date: 2024-02-29 00:34:00 +0800
 categories:
@@ -9,7 +9,7 @@ tags:
   - favicon
 ---
 
-The [favicons](https://www.favicon-generator.org/about/) of [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/) are placed in the directory `assets/img/favicons/`{: .filepath}. You may want to replace them with your own. The following sections will guide you to create and replace the default favicons. This is a change. This is another change. One more change. How about another change?
+The [favicons](https://www.favicon-generator.org/about/) of [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/) are placed in the directory `assets/img/favicons/`{: .filepath}. You may want to replace them with your own. The following sections will guide you to create and replace the default favicons. This is a change. This is another change. One more change. How about another change? Let me make some more changes before publishing.
 
 ## Generate the favicon
 
