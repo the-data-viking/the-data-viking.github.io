@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-03-01-this-is-a-test-post-part-2.md",
+                "file": "_posts/drafts/2024-03-01-this-is-a-test-post-part-4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-03-01-this-is-a-test-post-part-2.md",
+                "file": "_posts/drafts/2024-03-01-this-is-a-test-post-part-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-03-01-this-is-a-test-post-part-2.md",
+                "file": "_posts/drafts/2024-03-01-this-is-a-test-post-part-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-03-01-this-is-a-test-post-part-2.md"
+                "file": "_posts/drafts/2024-03-01-this-is-a-test-post-part-4.md"
               }
             }
           }
@@ -146,15 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f00a7d72baf262d",
+  "active": "a2de8a9d7ef93757",
   "lastOpenFiles": [
     "_posts/2024-03-01-this-is-a-test-post-part-3.md",
+    "_posts/drafts/2024-03-01-this-is-a-test-post-part-4.md",
+    "_posts/2024-03-01-this-is-a-test-post-part-2.md",
+    "_posts/drafts",
     "_posts/2024-03-01-this-is-a-test-post-part-2 1.md",
     "_posts/2024-02-25-this-is-a-test-post.md",
     "README.md",
     "2024-03-01.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "_posts/2024-03-01-this-is-a-test-post-part-2.md"
+    "Untitled.canvas"
   ]
 }
